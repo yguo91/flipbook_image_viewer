@@ -12,19 +12,19 @@ It supports drag-to-flip interactions, cover and end pages, and styled titles.
 
 ## 📁 Folder Structure
 
-flipbook-project/
-├── index.html
-├── js/
-│   └── turn.js
-├── images/
-│   ├── pic (1).jpg
-│   ├── pic (2).jpg
-│   ├── pic (3).jpg
-│   ├── pic (4).jpg
-│   └── cover.jpg
-├── TURNJS-LICENSE.txt
-├── .gitignore
-└── README.md
+flipbook-project/ <br />
+├── index.html <br />
+├── js/ <br />
+│   └── turn.js <br />
+├── images/<br />
+│   ├── pic (1).jpg<br />
+│   ├── pic (2).jpg<br />
+│   ├── pic (3).jpg<br />
+│   ├── pic (4).jpg<br />
+│   └── cover.jpg<br />
+├── TURNJS-LICENSE.txt<br />
+├── .gitignore<br />
+└── README.md<br />
 
 
 ## ⚖️ License Notice
