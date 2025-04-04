@@ -1,0 +1,7 @@
+# OS/Editor-specific
+.DS_Store
+Thumbs.db
+*.log
+
+# Node projects (if you later add tooling)
+node_modules/
